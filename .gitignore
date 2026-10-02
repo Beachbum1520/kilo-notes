@@ -1,0 +1,9 @@
+_raw/
+__pycache__/
+*.pyc
+.env
+.env.*
+*.key
+*.zip
+desktop.ini
+Thumbs.db

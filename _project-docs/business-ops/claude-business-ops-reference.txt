@@ -1,0 +1,55 @@
+Business Ops Reference
+
+Curated reference for Scott Watts (Senior Director, Hospitality Operations, Blueprint RF). Neutral operational context for AI-assisted drafting and analysis: company and team directory, active projects and workstreams, 2026 goals, tools and systems, glossary, and preferred working/output style. Use as grounding for emails, RFP/vendor responses, and operational questions.
+
+Role & responsibilities
+
+* Scott Watts is Senior Director of Hospitality Operations at Blueprint RF (BPRF), a managed Wi-Fi and hospitality technology LAN Service Provider (LSP) owned by Cox/CCI, in a Cox/Charter merger context.
+* BPRF serves major hotel brands (Marriott, Hilton, Hyatt, Choice, Omni, Wyndham) across 2,600+ properties.
+* Scott oversees a call center supporting hotel managed Wi-Fi services and manages 100+ offshore resources in the Philippines.
+* His direct reports span Software Development, Hotel Brand Support & Sales Engineering, and Call Center Management.
+* Scott reports to Jady West (VP, P&L owner); compensation, escalations, and formal actions route through Jady.
+* Key reports: Kyle Davis (CS Manager – NOC/PNOC/Dispatch), Dan Apa (Software Development Manager), Julian Cayetano (Sales Engineering/Brand lead), Marie Henson (TDE Supervisor, Philippines), Ananias (compliance/program focal).
+* BPO partners are Cloudstaff (Cebu & Manila) and CallTek/CTC (Cebu & GenSan).
+* As the LSP, BPRF is accountable for services running on the property network.
+
+Ongoing projects & priorities
+
+* Telephony migration: CallTek Mitel to Blueprint-controlled PhoneSuite.
+* Convention Center Portal (110S) replacement, in discovery/options analysis.
+* Three-lane TDE offshore operating model (Installs, FSRs, BOM/Design).
+* Joint Care Support Model (HN) discovery with HN Helpdesk and CPN/RK2.
+* Conference platform decision: BPRF-owned platform vs. maintaining 11OS (SolutionInc is a competitive consideration).
+* Active RFPs: Marriott GRE&T (17 clarification questions submitted; full proposal open) and Choice HSIA (10 clarification questions; brand-standard objective).
+* Omni no-cost IRE POC at the Omni New Orleans property.
+* Hilton compliance response submitted; MFA audit verification pending.
+* Charter/Cox merger due diligence: Cosmos platform deck and SB-1119/SB-1146 responses delivered.
+* Inside sales program (Manila/Choice); benchmark is 100 calls → ~7 proposals → 3–5 budgets → 1–3 closes.
+* 2026 goals: 110S portal MVP readiness, three-lane TDE model, Joint Care discovery, Mitel-to-PhoneSuite transition; PNOC first-time PIC pass rate target 80% (from ~30%).
+* Staffing model: 2.5 TDEs per seller and 1 SE per 3 sellers, scaling toward 100 sellers.
+
+Tools & workflows
+
+* Core systems: Salesforce (source of truth), Cosmos (network monitoring/auto-ticketing), Zendesk, CAS (CallTek ticketing), Workday, Field Nation, Microsoft Teams, Amplifi (recognition; 2,000-character limit).
+* Uses OAB (Online As-Builts) for property records, heatmaps, and network diagrams.
+* Hardware/vendors: Ruckus, Aruba, Nomadix, Watchguard, Mitel, PhoneSuite, ConnectWare, Cox Business SIP Trunking.
+* Uses Word for internal docs, PDF for external submission, PptxGenJS for decks, Clipchamp for video, and HandBrake/ffmpeg for compression.
+* Heavy Microsoft 365 user; building AI literacy via a Simplilearn/Purdue Gen AI course.
+
+Work style & preferences
+
+* Prefers direct, analytical, critical responses with structured reasoning, explicit tradeoffs, and concrete next steps.
+* Wants the assistant to act as an intellectual sparring partner — test assumptions, offer counterpoints, prioritize truth over agreement.
+* Values correctness, durability, and second-order effects over surface-level answers.
+* Expects full ingestion of materials before output; accuracy is non-negotiable and he flags errors in real time.
+
+Communication preferences
+
+* Concise; no throat-clearing or over-explaining to an informed audience.
+* Prefers numbers and deltas over prose-only analysis.
+* For emails: a single polished, forwardable draft (not variants), factually grounded.
+* For RFP/vendor responses: written in the vendor's voice, grounded in RFP section references.
+
+Other professional context
+
+* 24+ years in hospitality technology (since 2002); 8-year accounting background.

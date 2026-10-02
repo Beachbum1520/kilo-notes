@@ -1,0 +1,55 @@
+---
+name: devices-tech
+description: Personal devices, vehicles, home network, and gear
+sources: [backfill]
+aliases: []
+---
+- [stated] Uses iPhone 17
+- [stated] Drives a 2026 Suburban Premier diesel 4WD (black, purchased from Andean Chevrolet) and a 2018 Chevy 2500HD Duramax diesel
+- [stated] 2026 Suburban has a possible HUD (unconfirmed on window sticker — verify via RPO code UHX or GM Owner Portal)
+- [stated] Does NOT run pfSense at home (correction to an earlier bad note)
+- [stated] Proactive monitoring solutions must be compatible with FreeBSD/pfSense; LogicMonitor not suitable
+- [stated] Garmin Epix Pro (Gen 2) paired via Garmin Connect after resolving a Bluetooth phantom bond
+- [stated] USB audio issue on the 2011 Yukon (being replaced by the Suburban) remains unresolved — Reset Network Settings is the documented fix; a Bluetooth FM transmitter is a practical alternative given the vehicle replacement
+- [stated] Upgraded to Oura Ring 5 (Black finish, right hand); sold Gen 3 on eBay/Facebook Marketplace
+- [stated] NordVPN Standard 2-year plan in use
+- [stated] Look Optic Abbey progressives (tortoise) are primary frames; frame shape guidance = round/panto contrasts his square-rectangular face
+- [stated] Home is 4,000+ sq ft / sprawling layout, ~1 Gbps internet, no Ethernet runs and no coax at potential mesh node locations (wireless backhaul only); router/demarc sits in the center of the house, so mesh nodes would go one to each side in a star topology (no daisy-chained hops)
+- [stated] Evaluating TP-Link Deco mesh systems — XE75 (WiFi 6E) vs Deco 7 Pro BE63 (WiFi 7, ~$412/3-pack)
+- [stated] Drywall construction; has a pool and wants WiFi coverage extending outdoors around the pool area
+- [stated] Has a Heat Storm WiFi wall-mounted infrared heater (Tuya/Smart Life ecosystem) installed in an unfinished/insulated space
+- [stated] Chats started in the Claude Desktop app on his laptop sometimes (not always) do not appear later in the iPhone app — recurring friction; wants to stop going back and forth between surfaces
+- [stated] Has a Warrior Willpower WiFi cold plunge chiller/heater (touch panel with lock, gear/settings, mode, up/down, power; app-controlled) — runs on the same Tuya/Smart Life app as the K10 Plus door lock, but is natively WiFi
+- [stated] Rents email addresses from Hover on watts.net (a Hover-owned surname domain — he does not own the domain); one Hover account holds mailboxes for himself, his wife, and the kids; 2FA is enabled on the Hover account
+- [stated] Aug 2026: found an unexplained forward on his wife's watts.net mailbox pointing to an outside Gmail address; she didn't set it up (says she wouldn't know how). He disabled the forward and changed her mailbox password. Hers is a full mailbox with webmail access, so forwarding is settable from webmail with the mailbox password alone — no Hover account login needed.
+- [stated] Uses LastPass to manage his own passwords; his email password is ~60 random characters, unique, not reused
+- [stated] Trigger for discovering the forward: his wife woke to a batch of 2FA code emails, indicating someone was actively running login/reset attempts against her accounts; she reuses one simple password across nearly everything
+- [stated] Incident traced back to his wife's Walmart account (compromised a couple days earlier); a credit card of his saved in that account triggered a fraud alert — he denied the charge and that card was cancelled
+- [stated] Found a pending Walmart pickup order (beer and energy drinks) at a southern Florida store matching the fraud alert amount; has since secured the Walmart account and removed all saved payment methods
+- [stated] Disney+ device list showed active sessions from Lambayeque and Pucallpa, Peru on the morning of Aug 1, 2026 — the account's language had also been switched to Spanish; the Walmart pickup was staged in Hialeah, FL, suggesting a remote operator plus a local pickup
+- [stated] Personal laptop is an ASUS Zenbook S14 (UX5406AA-ZB), Scandinavian White — Core Ultra 9, 32GB LPDDR5x, 1TB NVMe, 14" 3K OLED touchscreen (2880x1800), 2x Thunderbolt 4 + USB-A + HDMI 2.1, Wi-Fi 7, ~2.65 lb; bought at Best Buy for $1,899.99 partly with Amex points
+- [stated] Home office runs two laptops — one work, one personal; refreshing the desk setup and wants a dual-monitor arrangement (one screen per laptop) with enough real estate to split each screen into two or more panes
+- [stated] Work laptop is a Dell Pro 14 Plus PB14250 — Intel Core Ultra 5 235U (12-core), Windows 11 Enterprise (build 26100), BIOS 2.13.4; 14" business ultraportable with 2x Thunderbolt 4. Charges over USB-C; factory adapter is a Dell LA65NM190 (DP/N 0JJ12F), 65W USB-C
+- [stated] Decided on two monitors / two laptops with one screen dedicated to each machine, specifically so both are active at the same time; rejected the KVM-switching and single-ultrawide approaches
+- [stated] Home office desk is 60" x 30" and 30⅜" tall, solid wood, ~5/8-3/4" thick at the back edge with a 1" clear lip; finish is a dark espresso/near-black brown. Settling on two Dell S2725QC 27" 4K monitors (~$279 each) on arms.
+- [stated] Aug 2026: the Ergotron arm's two-piece clamp does NOT engage on this desk — the plate barely catches the lip and the knob has no room to turn, despite the 1" lip meeting Ergotron's stated 0.8" minimum. Grommet bases for the two single arms would have meant two sets of holes, which he refused. Abandoned the Ergotron path entirely and bought a different dual-arm mount (about half the cost, includes USB charging). Do not re-recommend Ergotron arms for this desk.
+- [stated] Home office room is ~115" x 103.5" (~82 sq ft), with a 32.25" opening in one wall (13" from a corner, leaving a 69.5" solid run), a 48" opening in the opposite wall, and a 35" window on the wall Scott currently faces. Desk is 60" x 30", floating mid-room; Scott faces 290° (WNW) with 43" between his side of the desk and the wall behind him.
+- [stated] Neither opening has a door — both are open cased passages. One leads to a hardwood area with double doors, the other to a tiled hallway running to a bedroom. There is another route between those spaces, so in practice nobody walks through the office. The 32.25" opening previously had accordion-style louvered plantation-shutter doors. Desk sits near-centered on the 103.5" axis (~21.5" and ~21" clear at the ends); hard chair mat already down over the sisal rug.
+- [stated] Planning to flip the desk 180° so the window is behind him — puts his chair zone alongside the 69.5" solid run, which makes a credenza there reachable from his seat as an L-return, and turns the far side into the natural walkway. Window shutters are bi-fold and need only ~9" of clearance to open.
+- [stated] Office has three outlets: one on the wall behind his chair (~mid-wall, roughly directly behind where he sits), one on the window wall near the far corner, and one on the wall with the 32.25" opening, just past that opening's edge
+- [stated] Aug 2026: bought and installed a "K10 Plus" smart fingerprint door knob (brass, keypad + fingerprint + app control, ~$50 Amazon-tier). Confirmed Tuya/Smart Life ecosystem (Tuya "eb" virtual ID; Connected Through = Gateway/Mobile Phone). Works well but is Bluetooth-only to the app; wants it WiFi-enabled via a hub/gateway
+- [stated] Has YoLink freezer/temperature monitors and a YoLink hub (LoRa-based ecosystem)
+- [stated] Aug 2026: frustrated by consumer-tier AI limits (memory slots, no cross-project visibility, ~100-attachment cap) and considering alternatives, including self-hosted. Saw ads for "personal AI" hardware devices. Met an Australian contact on his last Philippines trip (inside sales team training) who runs his own self-hosted AI at home, named "Jake," interfaced via WhatsApp, and reports not hitting those limits
+- [stated] AI tool stack alongside Claude Max: ChatGPT, Manus, and Cursor (all paid subscriptions)
+- [stated] Claude project structure serves two conflicting jobs for him — context scoping and conversation filing; he keeps projects narrow specifically so chat lists stay findable, which is why he resists merging them
+- [stated] Already evaluated whether Cursor is redundant and concluded it is NOT — Cursor stays. Do not re-litigate this.
+- [stated] Core Claude pain point: long WattsWay dev sessions hit context/upload limits mid-flow, forcing a summarize-and-restart at the end of a working session; the handoff into a fresh conversation is lossy and he loses detail
+- [stated] Wants Google Drive to be the system of record for the bulk of his data, with AI able to read, update, and delete files there; will still attach files directly into conversations occasionally
+- [stated] Kitchen fridge is a fairly new Frigidaire all-refrigerator column (no freezer) — slider-style temp panel with Chill Boost / Temp buttons and a High Temp alert LED. Aug 2026: interior light died and the Temp button stopped cycling; holding Chill Boost + Temp together cleared it and restored both. No model/serial label found inside the cabinet.
+- [stated] Has a Hatch Restore 2 in the main bedroom, on the 2.4 GHz network (device name Restore2-D87BDA, IP 192.168.68.75)
+- [stated] Aug 2026: finalizing purchase of a used CPO 2026 Cadillac Lyriq Signature Luxury AWD (Silver Metallic, ~10.5K miles, Super Cruise) from Heritage Cadillac in Morrow, GA as his commuter vehicle — negotiated OTD ~$61,140; plans to finance 84 months with nothing down and pay it off early
+- [stated] Kept the 2011 Yukon out of the Lyriq deal (declined dealer's $500 trade offer; Carvana quoted $1,400); decided to keep it as his weekend farm vehicle — won't drive the Lyriq to the farm
+- [stated] Wife drives the 2018 Chevy 2500 to the farm nearly daily (~23 mi each way) and it does the farm's hauling — feed, hay, livestock to the processor
+- [stated] Aug 2026: Emporia Level 2 EV charger at home — plug-in (NEMA 14-50 receptacle) on a 60A circuit, outdoor install with disconnect; electrician did the outlet, Scott mounted the charger himself; app set to 50A breaker / 40A max charge (~9.6 kW) — home charging live for the Lyriq
+- [stated] Home electric is Diverse Power Incorporated (LaGrange GA co-op), residential Schedule R tiered rates (over-300-kWh rate ~12.7¢ Oct-Apr, ~16¢ May-Sep)
+- [stated] Owns an RV with two bathrooms — a 2020 Heartland ElkRidge 38RSRT fifth wheel, towed with the 2018 2500HD (which has SuperSprings installed and Load Range E tires)

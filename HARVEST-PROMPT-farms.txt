@@ -1,0 +1,90 @@
+Search this entire project's history — every conversation, oldest to newest — and extract everything worth preserving, in five categories.
+
+Critical distinction throughout: only record things I said or decided. Anything you proposed, recommended, drafted, or suggested is NOT mine unless I explicitly adopted it. If unsure, mark it [UNCERTAIN] rather than omitting it — I'll judge.
+
+Use exactly these formats, keeping all markdown symbols:
+
+**Category 1 — Decisions and rejections**
+
+```
+FILE: slug-here.md
+
+# Title
+
+**Decided:** what I decided.
+
+**Why:** my reasoning.
+
+**Rejected alternatives:** what was set aside, and why.
+
+**Would revisit if:** the condition that would reopen it.
+
+**Approx date:** month and year, or "unknown".
+```
+
+**Category 2 — Facts, figures, constraints**
+
+```
+FILE: slug-here.md
+
+# Title
+
+Fact, stated plainly.
+Another related fact.
+
+**Approx date:** month and year, or "unknown".
+```
+
+Only facts I supplied. Exclude anything you researched, calculated, or estimated.
+
+**Category 3 — Preferences and working style**
+
+```
+FILE: preferences-slug.md
+
+# Title
+
+The preference, stated as an instruction.
+```
+
+Only things I actually said. Do not infer from behavior patterns.
+
+**Category 4 — Open threads**
+
+```
+FILE: open-slug.md
+
+# Thread name
+
+**Status:** where it stands.
+
+**Open questions:** what's undecided.
+
+**Blocked on:** what it's waiting for.
+
+**Last activity:** approximate date.
+```
+
+Mark abandoned threads `[DORMANT]` in the title.
+
+**Category 5 — Corrections and reversals**
+
+```
+FILE: correction-slug.md
+
+# Title
+
+**What was wrong:** the incorrect version.
+
+**Correct version:** what's actually true.
+
+**Approx date:** month and year, or "unknown".
+```
+
+Include stylistic corrections, not just factual ones.
+
+Rules: one item per block, never merge. Include small items — err heavily toward too much. Include decisions later reversed, as separate items. No editorializing or advice.
+
+Write the results directly into a downloadable markdown file named `watts-way-farms-all.md`, appending to it as you go, rather than printing them in chat. Only tell me in chat when you've hit a limit or finished.
+
+Do not stop between categories or ask permission to continue. Work through all five continuously until you hit your output limit. If you run out of room, stop and I'll say "continue" — resume exactly where you stopped, no repeating and no re-summarizing what you already covered.
